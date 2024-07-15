@@ -10,7 +10,7 @@ The software tkDNN is used to run the traffic detection cameras in an edge compu
 ## Trajectory Tools
 Many tools dealing with the recorded data from above detection system are in the trajectory tools
 
--[Trajectory Tools](https://github.com/hlrs-vis/capereviso-trajectory-tools)
+- [Trajectory Tools](https://github.com/hlrs-vis/capereviso-trajectory-tools)
 
 
 ## OpenBikeSensor
